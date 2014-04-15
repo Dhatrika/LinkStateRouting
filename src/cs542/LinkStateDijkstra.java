@@ -311,7 +311,7 @@ public class LinkStateDijkstra {
 	         }
 	         
 	         //debug statements start
-	         System.out.println("Final Table is"); 
+	         /*System.out.println("Final Table is"); 
 	         for(int j=0;j<=rcount;j++) 
 	         { 
 	         for(int k=0;k<=rcount;k++) 
@@ -319,7 +319,7 @@ public class LinkStateDijkstra {
 	         System.out.print(finalDistanceNodeNumbers[j][k].getDistance() + "," + finalDistanceNodeNumbers[j][k].getNodeNumber() + "  "); 
 	         } 
 	         System.out.println(); 
-	         }
+	         }*/
 	        //debug statements end
 	         
 	         
